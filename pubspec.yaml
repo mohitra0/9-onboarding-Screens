@@ -35,6 +35,20 @@ dev_dependencies:
   get: ^3.11.0
   smooth_page_indicator: ^0.1.5
   lottie: ^0.4.1
+  cached_network_image:
+  video_player:
+  liquid_swipe: ^1.5.0
+  google_fonts:
+  elastic_drawer:
+  animate_do:
+  flutter_svg:
+  concentric_transition:
+  badges:
+  carousel_slider: ^1.4.1
+  linkable:
+  hexcolor:
+  expandable_text:
+  font_awesome_flutter:
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -50,6 +64,7 @@ flutter:
     - assets/onboarding1/
     - assets/onboarding1/images/
     - assets/onboarding1/animations/
+    - assets/onboarding3/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
