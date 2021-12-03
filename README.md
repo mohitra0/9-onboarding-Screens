@@ -4,7 +4,7 @@ onboarding screens
 
 ## Getting Started
   <div class="row">
-    <img src="https://user-images.githubusercontent.com/69755039/144600925-135f1036-7289-40ec-a6df-f939cfa4bd10.png" width="1080" height="1080">
+    <img src="https://user-images.githubusercontent.com/69755039/144600925-135f1036-7289-40ec-a6df-f939cfa4bd10.png" width="1080" height="900">
     <img src="https://user-images.githubusercontent.com/69755039/144600930-7d78e8ff-7a19-4e77-892c-fe66c6c0b62b.png"  width="1080" height="1080">
     <img src="https://user-images.githubusercontent.com/69755039/144600934-3784111d-6daf-4f9a-a5fd-90a4c4ac0605.png" width="1080" height="1080">
     <img src="https://user-images.githubusercontent.com/69755039/144600936-3d59f8b8-16c6-4f0f-bf86-a4960fa9621c.png" width="1080" height="1080">
