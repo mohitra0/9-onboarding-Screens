@@ -1,6 +1,6 @@
 # onboarding
 
-onboarding screens
+9 onboarding screens
 
 ## Getting Started
   <div class="row">
